@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Devansh Sharma 👋</h1>
+<h1 align="center">Hi there, I'm Devansh Sharma</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=440&height=40&lines=Full-stack+Developer;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
@@ -6,15 +6,15 @@
 
 ---
 
-## 🚀 About Me
-- 🧑‍💻 Developer with a focus on full-stack web apps
-- 🌐 Building projects with **Node.js**, **Express**, **React**, and **PostgreSQL**
-- 📫 How to reach me: [devanshsharma.email](mailto:your-email@example.com)
-- 🧠 Currently learning: **TypeScript**, **AWS**, **System Design**
+## About Me
+- Developer with a focus on full-stack web applications  
+- Building projects with **Node.js**, **Express**, **React**, and **PostgreSQL**  
+- Reach me at: [debu1301@gmail.com](mailto:debu1301@gmail.com)  
+- Currently learning: **TypeScript**, **AWS**, **System Design**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
@@ -29,7 +29,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GOKU1301&show_icons=true&theme=tokyonight" />
@@ -38,7 +38,7 @@
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin)](https://www.linkedin.com/in/sharmadevansh1301/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://goku1301.github.io/MyPortfolio/)
