@@ -4,15 +4,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=440&height=40&lines=Full-stack+Developer;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
 </p>
 
+<br/>
+
 <p align="center">
-  🚀 <strong>Check out my portfolio:</strong> 👉 <a href="https://goku1301.github.io/MyPortfolio/" target="_blank"><strong>goku1301.github.io/MyPortfolio</strong></a>
+  <a href="https://goku1301.github.io/MyPortfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-%23FF6F61?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000&color=FF6F61" alt="Portfolio Button"/>
+  </a>
 </p>
 
 ---
 
 ## About Me
-- Developer with a focus on full-stack web applications  
-- Building projects with **Node.js**, **Express**, **React**, and **PostgreSQL**  
+- Developer focused on building full-stack web applications  
+- Working with **Node.js**, **Express**, **React**, and **PostgreSQL**  
 - Reach me at: [debu1301@gmail.com](mailto:debu1301@gmail.com)  
 - Currently learning: **TypeScript**, **AWS**, **System Design**
 
@@ -44,5 +48,12 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin)](https://www.linkedin.com/in/sharmadevansh1301/)  
-[![Portfolio](https://img.shields.io/badge/-Visit%20My%20Portfolio-black?style=flat&logo=firefox&logoColor=orange)](https://goku1301.github.io/MyPortfolio/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sharmadevansh1301/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://goku1301.github.io/MyPortfolio/">
+    <img src="https://img.shields.io/badge/-Visit%20Portfolio-black?style=for-the-badge&logo=firefox&logoColor=orange" alt="Portfolio"/>
+  </a>
+</p>
