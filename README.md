@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://goku1301.github.io/MyPortfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-%23FF6F61?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000&color=FF6F61" alt="Portfolio Button"/>
+    <img src="https://img.shields.io/badge/-Portfolio-%23FF6F61?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000&color=FF6F61" alt="Portfolio Button"/>
   </a>
 </p>
 
@@ -54,6 +54,6 @@
   </a>
   &nbsp;
   <a href="https://goku1301.github.io/MyPortfolio/">
-    <img src="https://img.shields.io/badge/-Visit%20Portfolio-black?style=for-the-badge&logo=firefox&logoColor=orange" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=firefox&logoColor=orange" alt="Portfolio"/>
   </a>
 </p>
