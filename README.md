@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=440&height=40&lines=Full-stack+Developer;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  🚀 <strong>Check out my portfolio:</strong> 👉 <a href="https://goku1301.github.io/MyPortfolio/" target="_blank"><strong>goku1301.github.io/MyPortfolio</strong></a>
+</p>
+
 ---
 
 ## About Me
@@ -41,4 +45,4 @@
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin)](https://www.linkedin.com/in/sharmadevansh1301/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://goku1301.github.io/MyPortfolio/)
+[![Portfolio](https://img.shields.io/badge/-Visit%20My%20Portfolio-black?style=flat&logo=firefox&logoColor=orange)](https://goku1301.github.io/MyPortfolio/)
